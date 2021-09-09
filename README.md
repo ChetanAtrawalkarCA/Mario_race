@@ -1,4 +1,4 @@
-# Mario_race
+# Mario Race
 Mario and Luigi race (CSS animation).
 
 ## Prerequisites and Requirements
